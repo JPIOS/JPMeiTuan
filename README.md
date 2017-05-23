@@ -1,0 +1,2 @@
+# JPMeiTuan
+学习ReactNative做的一个类似美团的Demo
